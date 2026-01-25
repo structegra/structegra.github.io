@@ -23,10 +23,10 @@ Bahnweg 3 Haus 1 \
 Mobil [+43 677 61 62 61 12](tel:+4367761626112) \
 E-Mail [daniel@structegra.eu](mailto:daniel@structegra.eu)
 
-Rechtsform: Eingetragenes Einzelunternehmen \
+Rechtsform: Einzelunternehmen \
 Firmensitz: Langenlebarn, Austria \
 Firmenbuchnummer: 582479m \
-Firmenbuchgericht: Regional Court St. Pölten \
+Firmenbuchgericht: Landesgericht St. Pölten \
 UID-Nr.: ATU78846108 \
 GISA Nummer: 34911747 und 37624729 \
 D-U-N-S Nummer: 30-085-0574
