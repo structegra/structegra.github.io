@@ -1,1 +1,0 @@
-# structegra.github.io
