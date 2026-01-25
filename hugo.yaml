@@ -102,7 +102,7 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Strucegra"
+  description: "Structegra"
   author: ["Daniel Wagner"]
 
   defaultTheme: auto
