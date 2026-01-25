@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="structegra_full_mail"
+   inkscape:export-xdpi="12.19"
+   inkscape:export-ydpi="12.19"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="structerga_favicon_bg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Logo</title>
+  <defs
+     id="defs1">
+    <color-profile
+       name="sRGB-IEC61966-2.1"
+       xlink:href="../../../../../../../WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
+       id="color-profile1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.3"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="1042"
+     inkscape:cy="691"
+     inkscape:document-units="mm"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer_log"
+     showgrid="true"
+     showguides="true">
+    <inkscape:grid
+       id="grid3"
+       units="mm"
+       originx="-7.6293941e-07"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid4"
+       units="mm"
+       originx="-7.6293941e-07"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="5"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       enabled="false"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="200"
+       height="200"
+       id="page3"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Structegra Digital Strategy e.U.</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Daniel Wagner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer_log"
+     inkscape:label="Logo"
+     inkscape:highlight-color="#28b3ac"
+     style="display:inline">
+    <g
+       id="group_mark"
+       transform="translate(13.39746,0.1145679)"
+       inkscape:label="Mark"
+       inkscape:export-filename="structerga_mark_azure.png"
+       inkscape:export-xdpi="4.0640001"
+       inkscape:export-ydpi="4.0640001"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;fill:#004650;stroke-width:0.264583"
+         id="rect1"
+         width="200"
+         height="200"
+         x="7.6293941e-07"
+         y="0"
+         inkscape:label="Rect Mark"
+         inkscape:export-filename="structegra_mark.png"
+         inkscape:export-xdpi="65.019997"
+         inkscape:export-ydpi="65.019997"
+         transform="translate(-13.39746,-0.1145679)" />
+      <g
+         id="group_mark_orange"
+         inkscape:label="Mark Orange"
+         style="display:inline">
+        <path
+           style="opacity:1;fill:#f39146;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           d="M 69.282033,75.000001 C 75.055535,71.666667 80.829038,68.333333 86.60254,64.999999 106.8098,76.666666 127.01706,88.333333 147.22432,100 c 0,6.66667 0,13.33333 0,20 -5.7735,3.33333 -11.54701,6.66667 -17.32051,10 0,6.66667 0,13.33333 0,20 -14.43376,8.33333 -28.86751,16.66667 -43.30127,25 -14.433756,-8.33333 -28.867513,-16.66667 -43.301269,-25 0,-8.33333 0,-16.66667 0,-25 5.773503,3.33333 11.547005,6.66667 17.320508,10 0.252754,2.29298 -1.034399,5.47502 2.006329,6.15835 7.991477,4.61389 15.982955,9.22777 23.974433,13.84165 8.660253,-5 17.320509,-10 25.980759,-15 0,-6.66667 0,-13.33333 0,-20 5.7735,-3.33333 11.54701,-6.66667 17.32051,-10 C 109.69655,98.333334 89.489292,86.666667 69.282033,75.000001 Z"
+           id="mark_orange_outer-4"
+           inkscape:label="Mark Orane Outer" />
+        <path
+           style="opacity:1;fill:#e37128;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           d="m 86.60254,84.999998 c 0,3.333334 0,6.666667 0,10.000001 11.547007,6.666671 23.09401,13.333331 34.64102,20.000001 2.88675,-1.66667 5.7735,-3.33333 8.66025,-5 C 115.47005,101.66667 101.0363,93.333332 86.60254,84.999998 Z"
+           id="mark_orange_inner-8"
+           inkscape:label="Mark Orange Inner" />
+      </g>
+      <g
+         id="group_mark_teal"
+         inkscape:label="Mark Teal">
+        <path
+           style="opacity:1;mix-blend-mode:normal;fill:#007179;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           d="m 95.262794,50 c -2.864703,-1.704856 -5.729405,-3.409712 -8.594108,-5.114568 -8.704352,5 -17.408703,9.999999 -26.113055,14.999999 -0.02205,11.679397 -0.04409,23.358794 -0.06614,35.038191 -5.751454,3.320603 -11.502909,6.641208 -17.254363,9.961808 2.908799,1.70486 5.817599,3.40971 8.726398,5.11457 5.773503,-3.33333 11.547005,-6.66667 17.320508,-10 0,-11.666667 0,-23.333334 0,-35.000001 C 77.942285,59.999999 86.60254,55 95.262794,50 Z"
+           id="mark_teal_inner-8"
+           inkscape:label="Mark Teal Inner" />
+        <path
+           style="opacity:1;fill:#21b6b0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           d="M 129.90381,50 C 115.47005,41.666668 101.0363,33.333332 86.60254,25 72.168784,33.333333 57.735027,41.666667 43.301271,50 c 0,11.666666 0,23.333332 0,34.999998 -5.773503,3.333334 -11.547006,6.666667 -17.320509,10.000001 0,6.666671 0,13.333331 0,20.000001 14.433758,8.33333 28.867511,16.66667 43.301269,25 5.773505,-3.33333 11.547005,-6.66667 17.32051,-10 0,-6.66667 0,-13.33333 0,-20 -5.773504,3.33333 -11.547004,6.66667 -17.320508,10 -8.660254,-5 -17.320508,-10 -25.980762,-15 5.773504,-3.33333 11.547005,-6.666666 17.320508,-9.999999 0,-11.666667 0,-23.333334 0,-35.000001 8.660254,-5 17.320508,-10 25.980762,-15 14.433759,8.333333 28.867509,16.666669 43.301269,25.000001 0,-6.666667 0,-13.333334 0,-20.000001 z"
+           id="mark_teal_outer-2"
+           inkscape:linked-fill="path15"
+           inkscape:label="Mark Teal Outer" />
+      </g>
+    </g>
+  </g>
+</svg>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
