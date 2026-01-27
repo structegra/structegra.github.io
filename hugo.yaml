@@ -22,11 +22,19 @@ pagination:
   disableAliases: false
   pagerSize: 5
 
+outputFormats:
+  llms:
+    mediaType: "text/plain"
+    baseName: "llms"
+    isPlainText: true
+    notAlternative: true
+    
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+    - llms
 
 languages:
   de:
