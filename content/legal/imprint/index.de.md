@@ -47,11 +47,17 @@ Wir tracken dich (fast) nicht ❤️
 
 ### Reichweitenmessung mit Umami
 
-Zur Analyse der Nutzung dieser Website wird die datenschutzfreundliche Webanalyse‑Software [Umami](https://umami.is/) ein. Die Erfassung dient ausschließlich der Reichweitenmessung und der Frage, welche Inhalte auf dieser Seite aufgerufen werden.
+Zur Analyse der Nutzung dieser Website wird die datenschutzfreundliche Webanalyse‑Software [Umami](https://umami.is/) eingesetzt. Die Erfassung dient ausschließlich der Reichweitenmessung und der Frage, welche Inhalte auf dieser Seite aufgerufen werden.
 
 Umami arbeitet ohne Cookies, ohne personenbezogene Daten und ohne Identifikationsmerkmale wie Fingerprinting. Erfasst werden ausschließlich aggregierte Nutzungsdaten (z. B. Seitenaufrufe, Gerätetyp, Verweildauer). Eine Zuordnung zu einzelnen Personen findet nicht statt, und es werden keine Daten an Dritte weitergegeben.
 
 Diese Form der Analyse hilft mir, Inhalte und Struktur der Website weiterzuentwickeln, ohne in die Privatsphäre der Besucherinnen und Besucher einzugreifen.
+
+Durch den Betrieb fallen kurzfristige technische Logs zur Fehleranalyse an. Diese werden automatisch innerhalb weniger Tage gelöscht und nicht mit anderen Daten verknüpft.
+
+### GitHub Pages
+
+Diese Website wird über GitHub Pages bereitgestellt. Der Hosting‑Provider speichert automatisch technische Server‑Logs (z. B. IP‑Adresse, Zeitpunkt des Zugriffs, Browsertyp), um den sicheren Betrieb der Seite zu gewährleisten. Ein Zugriff auf diese Daten durch mich erfolgt nicht.
 
 ## Haftungsausschluss
 
