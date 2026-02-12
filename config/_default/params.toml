@@ -150,11 +150,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
+  websiteid = "f7b7b311-a921-48be-8e97-2195a7030b30"
+  domain = "umami.structegra.eu"
+  # dataDomains = "structegra.eu"
+  scriptName = "script.js"
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
