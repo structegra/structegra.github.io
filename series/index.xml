@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Series on Stuctegra Digital Strategy e.U.</title>
-    <link>https://structegra.eu/series/</link>
-    <description>Recent content in Series on Stuctegra Digital Strategy e.U.</description>
-    <image>
-      <title>Stuctegra Digital Strategy e.U.</title>
-      <url>https://structegra.eu/images/structegra_full_bg.png</url>
-      <link>https://structegra.eu/images/structegra_full_bg.png</link>
-    </image>
-    <generator>Hugo -- 0.154.5</generator>
-    <language>en</language>
-    <copyright>Stuctegra Digital Strategy e.U.</copyright>
-    <atom:link href="https://structegra.eu/series/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Stuctegra Digital Strategy e.U.</title><link>https://structegra.eu/series/</link><description>Recent content in Series on Stuctegra Digital Strategy e.U.</description><generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>daniel@structegra.eu (Daniel Wagner)</managingEditor><webMaster>daniel@structegra.eu (Daniel Wagner)</webMaster><copyright>© [Stuctegra Digital Strategy e.U.](https://structegra.eu) mit :heart:</copyright><atom:link href="https://structegra.eu/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
