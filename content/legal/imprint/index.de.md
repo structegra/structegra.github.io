@@ -37,13 +37,21 @@ Anwendbare Rechtsvorschriften: [Gewerbeordnung 1994](https://www.ris.bka.gv.at/G
 
 ## Geschäftszweig
 
-Business consulting including business organization, limited to business organization and technology/technologies as well as Services in automatic data processing and information technology.
-
-My focus is on providing organizational and technological consulting, particularly in the fields of business organization and technology. I specialize in designing and transforming enterprise architectures, solution architectures, IT systems, business processes, and operational strategies. As an enterprise architect and technology expert, I support your efforts to align IT landscape with business goals, implement IT solutions, optimize production workflows, and provide strategic technology consulting. Additionally, I offer coaching and training for IT professionals, along with project support to help organizations advance their capabilities and leverage technology effectively.
+Unternehmensberatung einschließlich der Unternehmensorganisation sowie Dienstleistungen in der automatischen Datenverarbeitung und
+Informationstechnik, mit Schwerpunkt auf organisatorischer und technologischer Beratung, insbesondere in den Bereichen EnterpriseArchitektur, ITSyste
+mgestaltung, Prozessoptimierung und strategischer Technologieberatung, sowie begleitender Projektunterstützung und Coaching.
 
 ## Datenschutz
 
-Wir tracken dich nicht ❤️
+Wir tracken dich (fast) nicht ❤️
+
+### Reichweitenmessung mit Umami
+
+Zur Analyse der Nutzung dieser Website wird die datenschutzfreundliche Webanalyse‑Software [Umami](https://umami.is/) ein. Die Erfassung dient ausschließlich der Reichweitenmessung und der Frage, welche Inhalte auf dieser Seite aufgerufen werden.
+
+Umami arbeitet ohne Cookies, ohne personenbezogene Daten und ohne Identifikationsmerkmale wie Fingerprinting. Erfasst werden ausschließlich aggregierte Nutzungsdaten (z. B. Seitenaufrufe, Gerätetyp, Verweildauer). Eine Zuordnung zu einzelnen Personen findet nicht statt, und es werden keine Daten an Dritte weitergegeben.
+
+Diese Form der Analyse hilft mir, Inhalte und Struktur der Website weiterzuentwickeln, ohne in die Privatsphäre der Besucherinnen und Besucher einzugreifen.
 
 ## Haftungsausschluss
 
