@@ -51,6 +51,12 @@ Umami works without cookies, without personal data, and without identification f
 
 This form of analysis helps me to further develop the content and structure of the website without intruding on the privacy of visitors.
 
+Short-term technical logs are generated during operation for error analysis purposes. These are automatically deleted within a few days and are not linked to other data.
+
+### GitHub Pages
+
+This website is provided via GitHub Pages. The hosting provider automatically stores technical server logs (e.g., IP address, time of access, browser type) to ensure the secure operation of the site. I do not have access to this data.
+
 ## Disclaimer
 
 The information on this website is developed with greatest possible care. However, mistakes cannot be completely excluded. We do not assume legal responsibility or liability for potential remaining inaccurate information and their consequences. Links provided on this website also lead to external editorial offers. These links are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval by us. We bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.
