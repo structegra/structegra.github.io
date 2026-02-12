@@ -37,13 +37,19 @@ Applicable commercial or professional regulations: [Gewerbeordnung 1994](https:/
 
 ## Purpose of the business
 
-Business consulting including business organization, limited to business organization and technology/technologies as well as Services in automatic data processing and information technology.
-
-My focus is on providing organizational and technological consulting, particularly in the fields of business organization and technology. I specialize in designing and transforming enterprise architectures, solution architectures, IT systems, business processes, and operational strategies. As an enterprise architect and technology expert, I support your efforts to align IT landscape with business goals, implement IT solutions, optimize production workflows, and provide strategic technology consulting. Additionally, I offer coaching and training for IT professionals, along with project support to help organizations advance their capabilities and leverage technology effectively.
+Management consulting, including business organization and services in automatic data processing and information technology, with a focus on organizational and technological consulting, particularly in the areas of enterprise architecture, IT system design, process optimization, and strategic technology consulting, as well as accompanying project support and coaching.
 
 ## Privacy
 
-We do not track you ❤️
+We (almost) don't track you ❤️
+
+### Reach measurement with Umami
+
+The privacy-friendly web analytics software [Umami](https://umami.is/) is used to analyze the use of this website. The data collected is used exclusively to measure reach and to determine which content is accessed on this site.
+
+Umami works without cookies, without personal data, and without identification features such as fingerprinting. Only aggregated usage data (e.g., page views, device type, length of stay) is collected. No assignment to individual persons takes place, and no data is passed on to third parties.
+
+This form of analysis helps me to further develop the content and structure of the website without intruding on the privacy of visitors.
 
 ## Disclaimer
 
