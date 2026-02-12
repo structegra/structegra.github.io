@@ -1,0 +1,22 @@
+{
+    "name": "Daniel Wagner",
+    "email": "daniel@structegra.eu",
+    "image": "/images/profile-image.webp",
+    "imageQuality": 96,
+    "headline": "Consulant, Digital Enterprise Architect @ Manner, CoderDojo Champion",
+    "bio": "🌱 Helping people improve 🚀",
+    "links": [
+        {
+            "email": "mailto:daniel@structegra.eu"
+        },
+        {
+            "github": "https://github.com/danielwagn3r"
+        },
+        {
+            "gitlab": "https://gitlab.com/danielwagn3r"
+        },
+        {
+            "linkedin": "https://www.linkedin.com/company/structegra"
+        }
+    ]
+}
