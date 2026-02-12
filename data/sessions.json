@@ -1,0 +1,90 @@
+[
+    {
+        "date": "2024-06-10",
+        "eventname": "MAD Summit München 2024",
+        "eventlink": "https://mad-summit.de/muenchen/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Munich, Germany",
+        "sessionname": "OAuth 2.0 und OpenID Connect: Schlüssel zur sicheren Authentifizierung",
+        "sessionlink": "https://mad-summit.de/cloudnative-devops/oauth-2-und-openid-connect-schluessel-zur-sicheren-authentifizierung/",
+        "image": "/img/sessions/mad-summit-munic-2024.jpg"
+    },
+    {
+        "date": "2024-02-15",
+        "eventname": "BASTA! Frankfurt 2024",
+        "eventlink": "https://basta.net/frankfurt/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Frankfurt/Main, Germany",
+        "sessionname": "AuthNZ für APIs und Web-Apps mit IdentityServer",
+        "sessionlink": "https://basta.net/security/authnz-apis-webapps-identityserver/",
+        "image": "/img/sessions/basta-frankfurt-2024.jpeg"
+    },
+    {
+        "date": "2023-09-25",
+        "eventname": "BASTA! Mainz 2023",
+        "eventlink": "https://basta.net/mainz/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Mainz, Germany",
+        "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
+        "sessionlink": "https://basta.net/security/openid-connect-identityserver/",
+        "image": "/img/sessions/basta-mainz-2023.jpeg"
+    },
+    {
+        "date": "2023-09-14",
+        "eventname": "ECR Tag 2023",
+        "eventlink": "https://www.ecrtag.de/",
+        "eventorganizer" : "GS1 Germany GmbH",
+        "location": "Frankfurt, Germany",
+        "sessionname": "Schnitten aus der Cloud – Wie das Wiener Traditionsunternehmen Manner den EDI-Nachrichtenaustausch mit Kunden, Logistikern und Lieferanten erfolgreich in die Cloud migriert hat",
+        "sessionlink": "https://www.ecrtag.de/programm/optimale-edi-sap-integration/",
+        "image": "/img/sessions/ecrtag-2023.jpg"
+    },
+    {
+        "date": "2023-06-19",
+        "eventname": "MAD Summit München 2023",
+        "eventlink": "https://mad-summit.de/muenchen/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Munich, Germany",
+        "sessionname": "Standardbasierte Authentifzierung mit OAuth 2.0 und OpenID Connect",
+        "sessionlink": "https://mad-summit.de/fundamentals/authentifizierung-mit-oauth-2-und-openid-connect/",
+        "image": "/img/sessions/mad-summit-munic-2023.jpg"
+    },
+    {
+        "date": "2023-06-14",
+        "eventname": "Rise of Technology",
+        "eventlink": "https://lsz.at/events/rise-of-technology",
+        "eventorganizer": "LSZ GmbH",
+        "location": "Waidhofen/Ybbs, Austria",
+        "sessionname": "Next Generation Developers: Full Digital Natives"
+    },
+    {
+        "date": "2022-11-30",
+        "eventname": "MAD Summit Berlin 2022",
+        "eventlink": "https://mad-summit.de/berlin/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Berlin, Germany",
+        "sessionname": "OAuth 2 & OpenID",
+        "sessionlink": "https://mad-summit.de/fundamentals/oauth-2-openid/",
+        "image": "/img/sessions/mad-summit-berlin-2022.jpg"
+    },
+    {
+        "date": "2022-10-13",
+        "eventname": "BASTA! Mainz 2022",
+        "eventlink": "https://basta.net/mainz/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Mainz, Germany",
+        "sessionname": "OpenID Connection (fast) selbstgemacht mit IdenityServer",
+        "sessionlink": "https://basta.net/microservices-apis/openid-connect-fast-selbstgemacht-mit-identityserver/",
+        "image":"basta-mainz-2022.jpg"
+    },
+    {
+        "date": "2022-09-14",
+        "eventname": "Software Architecture Summit München 2022",
+        "eventlink": "https://software-architecture-summit.de/berlin/",
+        "eventorganizer" : "Software & Support Media GmbH",
+        "location": "Berlin, Germany",
+        "sessionname": "Authentifzierung mit OAuth 2.0 und OpenID Connect",
+        "sessionlink": "https://software-architecture-summit.de/softwarearchitektur/authentifizierung-mit-oauth-2/",
+        "image": "/img/sessions/sas-summit-berlin-2022.jpg"
+    }
+]
