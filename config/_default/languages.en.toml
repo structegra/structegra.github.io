@@ -11,7 +11,10 @@ title = "Stuctegra Digital Strategy e.U."
   dateFormat = ":date_full"
   logo = "/images/structegra_mark.png"
   # secondaryLogo = "/images/structegra_mark_bg.png"
-  description = "My awesome website"
+  description = """Management consulting, including business organization and services in automatic data
+  processing and information technology, with a focus on organizational and technological consulting,
+  particularly in the areas of enterprise architecture, IT system design, process optimization,
+  and strategic technology consulting, as well as accompanying project support and coaching."""
   copyright = "© [Stuctegra Digital Strategy e.U.](https://structegra.eu) with :heart:"
 
 [params.author]

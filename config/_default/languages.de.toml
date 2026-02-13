@@ -11,7 +11,9 @@ title = "Stuctegra Digital Strategy e.U."
   dateFormat = ":date_full"
   logo = "/images/structegra_mark.png"
   # secondaryLogo = "/images/structegra_mark_bg.png"
-  description = "My awesome website"
+  description = """Unternehmensberatung einschließlich der Unternehmensorganisation sowie Dienstleistungen in der automatischen Datenverarbeitung
+  und Informationstechnik, mit Schwerpunkt auf organisatorischer und technologischer Beratung, insbesondere in den Bereichen EnterpriseArchitektur,
+  IT-Systemgestaltung, Prozessoptimierung und strategischer Technologieberatung, sowie begleitender Projektunterstützung und Coaching."""
   copyright = "© [Stuctegra Digital Strategy e.U.](https://structegra.eu) mit :heart:"
 
 [params.author]
