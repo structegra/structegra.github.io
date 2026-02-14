@@ -43,36 +43,31 @@
 #  weight = 20
 
 [[main]]
- name = "We"
+ name = "About me"
  weight = 10
 
 [[main]]
  name = "Biography"
- parent = "We"
- pageRef = "/page/about"
+ parent = "About me"
+ pageRef = "/about/bio"
  weight = 10
 
 [[main]]
  name = "Principles & Methods"
- parent = "We"
- pageRef = "/page/principles"
+ parent = "About me"
+ pageRef = "/about/principles"
  weight = 20
 
 [[main]]
  name = "Media & Press"
- parent = "We"
- pageRef = "/page/media"
+ parent = "About me"
+ pageRef = "/about/media"
  weight = 30
 
 [[main]]
  name = "Offering"
- weight = 20
-
-[[main]]
- name = "Services & Offer"
- parent = "Offering"
  pageRef = "/offering/offer"
- weight = 10
+ weight = 20
 
 [[main]]
  name = "Sessios"

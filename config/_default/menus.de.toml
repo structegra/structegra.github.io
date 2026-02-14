@@ -43,36 +43,31 @@
 #  weight = 20
 
 [[main]]
- name = "Wir"
+ name = "Über mich"
  weight = 10
 
 [[main]]
  name = "Biographie"
- parent = "Wir"
- pageRef = "/page/about"
+ parent = "Über mich"
+ pageRef = "/about/bio"
  weight = 10
 
 [[main]]
  name = "Prinzipien & Methoden"
- parent = "Wir"
- pageRef = "/page/principles"
+ parent = "Über mich"
+ pageRef = "/about/principles"
  weight = 20
 
 [[main]]
  name = "Medien & Presse"
- parent = "Wir"
- pageRef = "/page/media"
+ parent = "Über mich"
+ pageRef = "/about/media"
  weight = 30
 
 [[main]]
  name = "Leistungen"
- weight = 20
-
-[[main]]
- name = "Leistungen / Angebot"
- parent = "Leistungen"
  pageRef = "/offering/offer"
- weight = 10
+ weight = 20
 
 [[main]]
  name = "Sessions"
