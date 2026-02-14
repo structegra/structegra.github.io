@@ -23,7 +23,7 @@ Ich arbeite seit über fünfzehn Jahren an der Schnittstelle von Technologie, Or
 
 Was mich dabei immer geleitet hat: Klarheit, Substanz und der Anspruch, digitale Entscheidungen fundiert und langfristig tragfähig zu machen.
 
-![Picture of Daniel Wagner](/images/me.webp#center "Picture of Daniel Wagner")
+![Portrait of Daniel Wagner](/images/me.webp#center)
 
 ## Was unterscheidet mich
 
@@ -60,7 +60,7 @@ Ich arbeite nicht für kurzfristige Effekte, sondern für langfristige Orientier
 {{< timelineItem icon="code" header="Verein digital.austria" badge="ehrenamt" subheader="ab 2017: CoderDojo Wien und Tulln" md=true >}}
 Co-Founder und Obmann seit 2020
 
-![Logo von digital.austria](/images/digital.austria_transparent.webp "Das digital.austria association Logo")
+![Logo von digital.austria](/images/digital.austria_transparent.webp "Das digital.austria Vereinslogo")
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="VERBUND AG" badge="job" subheader="2007-2020: Mehrere Rollen" md=true >}}
