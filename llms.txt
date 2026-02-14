@@ -1,16 +1,16 @@
 # Stuctegra Digital Strategy e.U.
 
-## Pages
-- [Über mich](https://structegra.eu/page/about/)
-- [Prinzipien und Arbeitsweise](https://structegra.eu/page/principles/)
-- [Medien und Presse](https://structegra.eu/page/media/)
-
-## Legals
-- [Impressum und Offenlegung](https://structegra.eu/legal/imprint/)
+## Abouts
+- [Über mich](https://structegra.eu/about/bio/)
+- [Prinzipien und Arbeitsweise](https://structegra.eu/about/principles/)
+- [Medien und Presse](https://structegra.eu/about/media/)
 
 ## Offerings
 - [Leistungen & Angebot](https://structegra.eu/offering/offer/)
 - [Vorträge und Workshops](https://structegra.eu/offering/sessions/)
+
+## Legals
+- [Impressum und Offenlegung](https://structegra.eu/legal/imprint/)
 
 ## Projects
 - [CoderDojo](https://structegra.eu/projects/coderdojo/)

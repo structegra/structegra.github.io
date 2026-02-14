@@ -1,9 +1,9 @@
 # Stuctegra Digital Strategy e.U.
 
-## Pages
-- [About me](https://structegra.eu/en/page/about/)
-- [Principles and Methods](https://structegra.eu/en/page/principles/)
-- [Media and press](https://structegra.eu/en/page/media/)
+## Abouts
+- [About me](https://structegra.eu/en/about/bio/)
+- [Principles and Methods](https://structegra.eu/en/about/principles/)
+- [Media and press](https://structegra.eu/en/about/media/)
 
 ## Legals
 - [Imprint and disclosure](https://structegra.eu/en/legal/imprint/)
