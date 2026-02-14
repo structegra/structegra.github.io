@@ -32,7 +32,7 @@ Ich arbeite analytisch, präzise und prinzipienbasiert. Offene Standards, nachha
 
 ## Ausbildung & Engagement
 
-Ich habe zwei Studien an der Technischen Universität Wien abgeschlossen: Informatik sowie Informatikmanagement (mit Auszeichnung), davor an der HTL Leonding in der Abteilung *EDV und Organistation* maturiert (mit Auszeichnung).
+Ich habe zwei Studien an der Technischen Universität Wien abgeschlossen: Informatik sowie Informatikmanagement (mit Auszeichnung), davor an der HTL Leonding in der Abteilung *EDV und Organisation* maturiert (mit Auszeichnung).
 
 Neben meiner beruflichen Tätigkeit engagiere ich mich seit vielen Jahren für die Förderung junger IT‑Talente. Als Mitgründer und Obmann des Vereins [digital.austria]({{< relref "/projects/coderdojo" >}} "CoderDojo") sowie als Ambassador des [Youth Hackathon](https://youthhackathon.com/) unterstütze ich Kinder und Jugendliche dabei, spielerisch und kreativ Zugang zur digitalen Welt zu finden.
 
@@ -66,7 +66,7 @@ Co-Founder und Obmann seit 2020
 {{< timelineItem icon="code" header="VERBUND AG" badge="job" subheader="2007-2020: Mehrere Rollen" md=true >}}
 
 - Digital Enterprise Architect
-- Software Architect, Senior Developer & Scrum Master
+- Software Architect, Senif Developer & Scrum Master
 - Team Leitung *Downstream IT*
 - Applikationsportfolio Manager *Austrian Power Grid*
 

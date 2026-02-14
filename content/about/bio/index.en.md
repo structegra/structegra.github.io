@@ -25,7 +25,7 @@ What has always guided me in this work is clarity, substance, and the desire to 
 
 ![Picture of Daniel Wagner](/images/me.webp "Picture of Daniel Wagner")
 
-## What sets me apart
+## What distinguishes me
 
 I combine technical depth with strategic thinking and a clear eye for structures. Whether it's digital strategy, system and web architecture, information architecture, development processes, or tenders, my focus is always on providing guidance and developing solutions that fit the reality of an organization.
 I work analytically, precisely, and based on principles. Open standards, sustainable architectures, and low-risk decisions are my key guiding principles.
