@@ -23,7 +23,7 @@ I have been working at the intersection of technology, organization, and strateg
 
 What has always guided me in this work is clarity, substance, and the desire to make digital decisions well-founded and sustainable in the long term.
 
-![Picture of Daniel Wagner](/images/me.webp "Picture of Daniel Wagner")
+![Portrait of Daniel Wagner](/images/me.webp)
 
 ## What distinguishes me
 
