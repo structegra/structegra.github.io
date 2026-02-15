@@ -37,13 +37,11 @@ Ich entwerfe digitale Ökosysteme, die modular, wartbar und zukunftssicher sind.
 
 Ich bringe Ordnung in komplexe Inhalte. Dazu gehören Navigationskonzepte, Content‑Modelle, Strukturierung großer Informationsmengen und redaktionelle Prozesse. Ziel ist immer: Orientierung für Nutzer:innen und Klarheit für die Organisation.
 
-## Regulatorische Sicherheit (DSGVO, ECG, MedienG)
+<!--
+## Regulatorische Sicherheit
 
 Ich verbinde technische, organisatorische und rechtliche Anforderungen zu einer kohärenten digitalen Strategie. Dazu gehören DSGVO‑konforme Web‑Architekturen, cookie‑freie Strategien, Risikoanalysen sowie die Erstellung von Impressum, Datenschutz und medienrechtlichen Angaben.
-
-## Strategische Kommunikation & Positionierung
-
-Ich unterstütze Organisationen dabei, ihre Botschaften klar, präzise und glaubwürdig zu formulieren. Dazu gehören Positionierungsarbeit, Messaging‑Frameworks, Kommunikationsarchitektur und die Übersetzung komplexer Inhalte in verständliche Sprache.
+-->
 
 ## Produkt‑ & Entwicklungsprozesse gestalten
 
@@ -54,7 +52,9 @@ Dazu gehören Rollenmodelle, Schnittstellen, Governance, Qualitätssicherung und
 
 Ich strukturiere und begleite Ausschreibungen von der Vorbereitung bis zur Anbietervorauswahl. Dazu gehören die Formulierung technischer und organisatorischer Anforderungen, Bewertungskriterien, Moderation des Prozesses, Risikoanalyse und die Entscheidungsunterstützung bei der Auswahl geeigneter Partner.
 
-# Trainings & Workshops
+<!--
+
+## Trainings & Workshops
 
 Als Partner von IT‑Visions.de gebe ich Trainings und Workshops zu Architektur‑, Identity‑ und Entwicklungsthemen.
 Dazu gehören u. a.:
@@ -101,9 +101,12 @@ Selected topics of recent workshops:
   - GitHub
   - Azure DevOps
   - Bitbucket
+-->
 
 ## Partnerschaften
 
 [![Partner im Expertennetzwerk www.IT-Visions.de](www.IT-Visions.de_Expertennetzwerk.jpg?width=312px&height=128px#center "Partner im Expertennetzwerk www.IT-Visions.de")](https://www.it-visions.de/about/experte.aspx/Dwagner)
 
+<!--
 [![GitLab Open Partner logo](gitlab-open-partner-badge.webp?width=312px&height=128px#center "GitLab Open Partner logo")](https://partners.gitlab.com/English/directory/partner/2150750/daniel-wagner-e-u)
+-->
