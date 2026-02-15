@@ -75,15 +75,15 @@
  pageRef = "/offering/sessions"
  weight = 20
 
-[[main]]
- name = "Kategorien"
- pageRef = "categories"
- weight = 30
+# [[main]]
+#  name = "Kategorien"
+#  pageRef = "categories"
+#  weight = 30
 
-[[main]]
- name = "Tags"
- pageRef = "tags"
- weight = 40
+# [[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 40
 
 
 # -- Footer Menu --
