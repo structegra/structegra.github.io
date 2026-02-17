@@ -75,6 +75,11 @@
  pageRef = "/offering/sessions"
  weight = 20
 
+[[main]]
+  name = "Kontakt"
+  pageRef = "/contact/form"
+  weight = 30
+
 # [[main]]
 #  name = "Kategorien"
 #  pageRef = "categories"
@@ -100,6 +105,11 @@
   name = "Datenschutz"
   pageRef = "/legal/privacy"
   weight = 20
+
+[[footer]]
+  name = "Kontakt"
+  pageRef = "/contact/form"
+  weight = 30
 
 # [[footer]]
 #   name = "Tags"
