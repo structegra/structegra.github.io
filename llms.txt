@@ -10,6 +10,7 @@
 - [Vorträge und Workshops](https://structegra.eu/offering/sessions/)
 
 ## Legals
+- [Datenschutz](https://structegra.eu/legal/privacy/)
 - [Impressum und Offenlegung](https://structegra.eu/legal/imprint/)
 
 ## Projects
