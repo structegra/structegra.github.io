@@ -1,5 +1,5 @@
 ---
-title: "Contakt"
+title: "Contact"
 date: 2026-02-17T10:04:00+01:00
 draft: false
 categories:
