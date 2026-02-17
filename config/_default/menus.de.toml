@@ -96,6 +96,11 @@
   pageRef = "/legal/imprint"
   weight = 10
 
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "/legal/privacy"
+  weight = 20
+
 # [[footer]]
 #   name = "Tags"
 #   pageRef = "tags"
