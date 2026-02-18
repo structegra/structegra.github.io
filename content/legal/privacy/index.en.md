@@ -39,7 +39,7 @@ Sollte das Framework künftig nicht mehr anwendbar sein, erfolgt die Übermittlu
 
 ### Kontaktformular -- Tally
 
-Das Kontaktformular wird über [Tally](https://tally.so) (Tally Solutions BV, Belgien) bereitgestellt. Eingegebene Daten (Name, E-Mail, Nachricht) sowie technische Verbindungsdaten werden verschlüsselt übertragen und ausschließlich in Europa gespeichert. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. b DSGVO). Ein Auftragsverarbeitungsvertrag nach Art. 28 DSGVO besteht. Die Bereitstellung der Daten ist für die Bearbeitung der Anfrage erforderlich; ohne diese Angaben kann die Anfrage nicht beantwortet werden. Die Daten werden spätestens 12 Monate nach Abschluss der Anfrage gelöscht. Weitere Infos: [Datenschutzerklärung Tally](https://tally.so/help/privacy-policy)
+Das Kontaktformular wird über [Tally](https://tally.so) (Tally Solutions BV, Belgien) bereitgestellt. Eingegebene Daten (Name, E-Mail, Nachricht) sowie technische Verbindungsdaten werden verschlüsselt übertragen und ausschließlich in Europa gespeichert. Rechtsgrundlage ist die Durchführung vorvertraglicher Maßnahmen bzw. die Bearbeitung deiner Anfrage (Art. 6 Abs. 1 lit. b DSGVO). Ein Auftragsverarbeitungsvertrag nach Art. 28 DSGVO besteht. Die Bereitstellung der Daten ist für die Bearbeitung der Anfrage erforderlich; ohne diese Angaben kann die Anfrage nicht beantwortet werden. Die Daten werden spätestens 12 Monate nach Abschluss der Anfrage gelöscht. Weitere Infos: [Datenschutzerklärung Tally](https://tally.so/help/privacy-policy)
 
 ## Rechte der betroffenen Personen
 
