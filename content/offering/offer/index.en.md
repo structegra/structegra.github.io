@@ -51,6 +51,14 @@ Selected topics of recent workshops:
 
 ## Partnerships
 
-[![Partner im Expertennetzwerk www.IT-Visions.de](/images/www.IT-Visions.de_Expertennetzwerk.jpg?width=312px&height=128px#center "Partner im Expertennetzwerk www.IT-Visions.de")](https://www.it-visions.de/about/experte.aspx/Dwagner)
+### www.IT-Visions.de
 
-[![GitLab Open Partner logo](/images/gitlab-open-partner-badge.webp?width=312px&height=128px#center "GitLab Open Partner logo")](https://partners.gitlab.com/English/directory/partner/2150750/daniel-wagner-e-u)
+Seit 2022 bin ich Partner im [www.IT-Visons.de](www.IT-Visons.de) Expertennetzwerk.
+
+[![www.IT-Visions.de loo](/images/www.IT-Visions.de_Expertennetzwerk.jpg)](https://www.it-visions.de/about/experte.aspx/Dwagner)
+
+## GitLab
+
+Seit 2023 bin ich im GitLab Open Channel Partner.
+
+[![GitLab Open Partner logo](/images/gitlab-open-partner-badge.webp)](https://about.gitlab.com/partners/channel-partners/#/2150750)
