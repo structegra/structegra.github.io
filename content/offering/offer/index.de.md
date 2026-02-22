@@ -1,7 +1,6 @@
 ---
-title: "Leistungen & Angebot"
+title: "Leistungen"
 description: "Ich unterstütze Organisationen dabei, digitale Entscheidungen sicher zu treffen, Architekturen nachhaltig zu gestalten und komplexe Inhalte klar zu strukturieren. Mein Angebot umfasst digitale Strategie, Technologie‑ und Informations‑Architektur, Begleitung bei regulatorischen Themen, Entwicklungsprozesse sowie Ausschreibungsberatung – immer mit Fokus auf Klarheit, Substanz und langfristiger Tragfähigkeit."
-summary: "Struktur. Orientierung. Digitale Lösungen mit Substanz."
 date: 2026-02-03T22:14:00+01:00
 draft: false
 categories:
@@ -16,9 +15,12 @@ tags:
 - devops
 - github
 - gitlab
+type: featured
 weight: 20
 ---
 
+> [!quote]+ Vision
+> Struktur. Orientierung. Digitale Lösungen mit Substanz
 
 Ich unterstütze Unternehmen dabei, digitale Entscheidungen sicher zu treffen, komplexe Strukturen zu ordnen und nachhaltige Lösungen zu gestalten. Mein Fokus liegt auf klarer Orientierung, fundierter Analyse und Architekturen, die langfristig tragfähig sind – technisch, organisatorisch und strategisch.
 

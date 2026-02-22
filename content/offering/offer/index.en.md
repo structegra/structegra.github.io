@@ -1,6 +1,5 @@
 ---
 title: "Services & Offer"
-summary: "Structure. Orientation. Digital solutions with real substance."
 date: 2023-01-02T22:14:00+01:00
 draft: false
 categories:
@@ -15,8 +14,12 @@ tags:
 - devops
 - github
 - gitlab
+type: featured
 weight: 20
 ---
+
+> [!quote]+ Vision
+> Structure. Orientation. Digital solutions with real substance
 
 ## Topics
 

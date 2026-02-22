@@ -14,6 +14,7 @@ categories:
 tags:
 - press
 - media
+type: featured
 weight: 20
 ---
 
