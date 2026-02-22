@@ -8,12 +8,7 @@ categories:
 - business
 - personal
 tags:
-cover:
-    image: "me.webp"
-    alt: "Daniel Wagner"
-    caption: "Ein Portrait von Daniel Wagner"
-    relative: true
-    hidden: true
+type: featured
 weight: 10
 ---
 
@@ -46,12 +41,16 @@ Ich arbeite nicht für kurzfristige Effekte, sondern für langfristige Orientier
 
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="Structegra Digital Strategy e.U." badge="company" subheader="2026: Umfirmierung" md="true" >}}
+{{< timelineItem icon="star" header="Structegra Digital Strategy e.U." badge="firma" subheader="2026: Umfirmierung" md="true" >}}
 ![Logo von Structegra Digital Strategy e.U.](/images/structegra_full_bg.png "Das neue Firmenlogo")
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Daniel Wagner e.U." badge="company" subheader="2022: Gründung" md="true" >}}
+{{< timelineItem icon="star" header="Daniel Wagner e.U." badge="firma" subheader="2022: Gründung" md="true" >}}
 ![Logo der Daniel Wagner e.U.](/images/danielwagnereu-logo.webp#center "Das damalige Firmenlogo")
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="FH Kärnten" badge="job" subheader="ab 2022: Nebenberuflicher Lehrender" md="true" >}}
+Vorlesung zu Cloud Computing.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Josef Manner & Comp AG" badge="job" subheader="ab 2020: Digital Enterprise Architect" md=true >}}

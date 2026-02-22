@@ -8,12 +8,7 @@ categories:
 - business
 - personal
 tags:
-cover:
-    image: "me.webp"
-    alt: "Daniel Wagner"
-    caption: "A portrait of Daniel Wagner"
-    relative: true
-    hidden: true
+type: featured
 weight: 10
 ---
 
@@ -54,10 +49,14 @@ I do not work for short-term effects, but for long-term orientation.
 ![Logo of Daniel Wagner e.U.](/images/danielwagnereu-logo.webp "The former company brand logo")
 {{< /timelineItem >}}
 
+{{< timelineItem icon="code" header="Carinthia University of Applied Sciences" badge="job" subheader="since 2022: Part-time lecturer" md="true" >}}
+Lecture on cloud computing.
+{{< /timelineItem >}}
+
 {{< timelineItem icon="code" header="Josef Manner & Comp AG" badge="job" subheader="since 2020: Digital Enterprise Architect" md=true >}}
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="Verein digital.austria" badge="ehrenamt" subheader="ab 2017: CoderDojo Wien and Tulln" md=true >}}
+{{< timelineItem icon="code" header="Verein digital.austria" badge="volunteer" subheader="ab 2017: CoderDojo Wien and Tulln" md=true >}}
 Co-Founder und Chairman since 2020
 
 ![Logo of digital.austria](/images/digital.austria_transparent.webp "The digital.austria association logo")
@@ -72,10 +71,10 @@ Co-Founder und Chairman since 2020
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="TU Wien" badge="studium" subheader="2005-2007: Studies of Computer Science Management" >}}
+{{< timelineItem icon="star" header="TU Wien" badge="studies" subheader="2005-2007: Studies of Computer Science Management" >}}
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="TU Wien" badge="studium" subheader="1999-2005: Studies of Computer Science" >}}
+{{< timelineItem icon="star" header="TU Wien" badge="studies" subheader="1999-2005: Studies of Computer Science" >}}
 {{< /timelineItem >}}
 
 {{< /timeline >}}
