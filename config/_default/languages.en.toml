@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Stuctegra Digital Strategy e.U."
+title = "Structegra Digital Strategy e.U."
 
 [params]
   displayName = "EN"
@@ -15,7 +15,7 @@ title = "Stuctegra Digital Strategy e.U."
   processing and information technology, with a focus on organizational and technological consulting,
   particularly in the areas of enterprise architecture, IT system design, process optimization,
   and strategic technology consulting, as well as accompanying project support and coaching."""
-  copyright = "© [Stuctegra Digital Strategy e.U.](https://structegra.eu) with :heart:"
+  copyright = "© [Structegra Digital Strategy e.U.](https://structegra.eu) with :heart:"
 
 [params.author]
   name = "Daniel Wagner"
